@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/poketwo/data
+[submodule "HFSpace"]
+	path = HFSpace
+	url = https://huggingface.co/spaces/LightningDev1/PokeTwo
